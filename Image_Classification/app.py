@@ -5,7 +5,7 @@ import numpy as np
 from keras.layers import TFSMLayer
 
 # Load the model from SavedModel directory using TFSMLayer
-model = TFSMLayer("C:/Users/HP/Image_Classification", call_endpoint="serving_default")
+model = TFSMLayer("Image_Classification/saved_model", call_endpoint="serving_default")
 
 # Class index to character mapping
 character_mapping = {
