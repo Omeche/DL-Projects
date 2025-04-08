@@ -3,19 +3,19 @@
 
 This project uses machine learning to predict house prices based on various features such as area (square feet), number of bedrooms, number of bathrooms, and location (specifically in India). The project is built using Flask for the backend, where we expose an API to handle the predictions and provide a web interface for user interaction.
 
-Features
+Features:
 - Predict house prices based on square footage, number of bedrooms, number of bathrooms, and location.
 - User-friendly web interface where users can enter details and get an estimated price.
 - API for programmatic access to the house price prediction model.
 
-Technologies Used
+Technologies Used:
 - Flask: A lightweight Python web framework used for building the server-side logic.
 - scikit-learn: Used for machine learning and model training.
 - Pandas & NumPy: Used for data processing.
 - HTML/CSS/JavaScript: Frontend for the web interface.
 - JQuery: To handle the frontend requests and communicate with the Flask backend.
 
-Installation
+Installation:
 
 Follow these steps to run the project on your local machine:
 
@@ -97,6 +97,8 @@ Acknowledgments
 - Bootstrap - For styling the frontend interface.
 
 
-Feel free to contact me via [email](omechetochi@gmail.com) for any questions or issues regarding the project.
+Feel free to contact me via [email](mailto:omechetochi@gmail.com) for any questions or issues regarding the project.
 ```
+
+
 
