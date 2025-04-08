@@ -73,7 +73,7 @@ The app will open in your default browser at [https://dl-projects-ivfqhfkzdj5t3v
 
 
  🖼 Sample UI
-![App Screenshot](screenshot.png)![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png)
 
 
  🧩 Dependencies
