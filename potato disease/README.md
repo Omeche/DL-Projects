@@ -174,7 +174,7 @@ The API should now be accessible via the public IP address of your EC2 instance 
 Accessible via:
 ```
 http://3.143.0.173:8000/docs
-```
+
 
  🔹 EC2 Running Instance
 ![EC2 Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/ec2_running_instance.PNG)
@@ -185,7 +185,7 @@ http://3.143.0.173:8000/docs
 🔹 Uvicorn Running on GitBash
 ![Uvicorn Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/uvicorn.PNG)
 
-```
+
 
 5. Set Up Nginx for Reverse Proxy (Optional)
 
