@@ -97,6 +97,8 @@ The FastAPI application provides the following endpoints:
     "confidence": 0.92
   }
   ```
+🔹 FastAPI code on Pycharm
+![FastAPI Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/fastapi.png)
 
 Running the Application in Docker (Optional)
 
@@ -159,6 +161,31 @@ python3 main.py --host 0.0.0.0 --port 80
 ```
 
 The API should now be accessible via the public IP address of your EC2 instance on port 80.
+
+```markdown
+ ☁️ Deployment on AWS EC2
+
+ 📍 What was done:
+- Launched an EC2 instance with Amazon Linux
+- Set up and ran FastAPI using Uvicorn on port 8000.
+- Configured EC2 security groups to allow HTTP traffic.
+
+ ✅ Live API (during deployment):
+Accessible via:
+```
+http://3.143.0.173:8000/docs
+```
+
+ 🔹 EC2 Running Instance
+![EC2 Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/ec2_running_instance.png)
+
+ 🔹 FastAPI Running on EC2
+![FastAPI Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/fastapi_on_ec2.png)
+
+🔹 Uvicorn Running on GitBash
+![Uvicorn Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/uvicorn.png)
+
+```
 
 5. Set Up Nginx for Reverse Proxy (Optional)
 
