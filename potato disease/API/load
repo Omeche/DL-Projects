@@ -1,0 +1,9 @@
+import tensorflow as tf
+print(tf.__version__)
+
+"""try:
+    model = tf.keras.models.load_model(r"C:\Users\HP\potato disease\saved_models\Beta\4.keras")
+    print("Model loaded successfully!")
+except Exception as e:
+    print(f"Error loading model: {e}")
+"""
