@@ -98,7 +98,7 @@ The FastAPI application provides the following endpoints:
   }
   ```
 🔹 FastAPI code on Pycharm
-![FastAPI Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/fastapi.png)
+![FastAPI Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/fastapi.PNG)
 
 Running the Application in Docker (Optional)
 
@@ -177,13 +177,13 @@ http://3.143.0.173:8000/docs
 ```
 
  🔹 EC2 Running Instance
-![EC2 Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/ec2_running_instance.png)
+![EC2 Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/ec2_running_instance.PNG)
 
  🔹 FastAPI Running on EC2
-![FastAPI Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/fastapi_on_ec2.png)
+![FastAPI Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/fastapi_on_ec2.PNG)
 
 🔹 Uvicorn Running on GitBash
-![Uvicorn Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/uvicorn.png)
+![Uvicorn Screenshot](https://github.com/Omeche/DL-Projects/raw/main/potato%20disease/uvicorn.PNG)
 
 ```
 
